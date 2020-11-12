@@ -35,6 +35,7 @@ The two graphs above show the different trends of sensors in the same location, 
 Neural nets outperformed RNNs significantly. The best model had an RMSE of 0.37. Each model was trained on 30 minutes of data and predicted 15 minutes into the future.
 
 ![loss_distribution](https://user-images.githubusercontent.com/65979022/98952531-91ea2600-24c9-11eb-903b-29118d023603.png)
+
 The average final model training and testing metrics. 
 
 ## Anomaly Detection
