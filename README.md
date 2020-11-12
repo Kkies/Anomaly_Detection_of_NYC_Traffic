@@ -15,10 +15,16 @@ In this repo you will find three notebooks detailing different stages of this pr
 After exploring the data from NYC Open Data, it was apparent that each sensor location has a distinct traffic trend. Consequently, each sensor was trained with its own model.
 
 ![diff_loc_sensor](https://user-images.githubusercontent.com/65979022/98952527-8f87cc00-24c9-11eb-8d7b-dccdfb947947.png)
-This image shows the difference in trends of sensors in the different locations.
+This image shows the different locations of the following two sensors.
+![Sensor_142_weekdays](https://user-images.githubusercontent.com/65979022/98954296-a5968c00-24cb-11eb-85c0-a3249d99dbed.png)
+![Sensor_222_weekly_trend](https://user-images.githubusercontent.com/65979022/98954367-b6df9880-24cb-11eb-9cec-01b1437fe33c.png)
+The two graphs above show the different trends of sensors in different locations.
 
 ![east_vs_west_sensor](https://user-images.githubusercontent.com/65979022/98952536-944c8000-24c9-11eb-97fc-d3df050ba888.png)
-This image shows the difference in trends of sensors in the same location, but one is eastbound and the other is westbound.
+This image shows the location of the two sensors in the same place but recording speeds in different directions.
+![Sensor_142_weekdays](https://user-images.githubusercontent.com/65979022/98954296-a5968c00-24cb-11eb-85c0-a3249d99dbed.png)
+![Sensor_178_weekly_trend](https://user-images.githubusercontent.com/65979022/98954324-ae875d80-24cb-11eb-9e34-e12aae044fd7.png)
+The two graphs above show the different trends of sensors in the same location, one is eastbound and the other is westbound.
 
 ## Modeling
 
