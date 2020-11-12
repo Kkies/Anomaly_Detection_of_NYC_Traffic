@@ -19,7 +19,7 @@ After exploring the data from NYC Open Data, it was apparent that each sensor lo
 This image shows the different locations of the following two sensors.
 ![Sensor_142_weekdays](https://user-images.githubusercontent.com/65979022/98954296-a5968c00-24cb-11eb-85c0-a3249d99dbed.png)
 ![Sensor_222_weekdays](https://user-images.githubusercontent.com/65979022/98955434-dcb96d00-24cc-11eb-8cba-8b4d3d8e59f7.png)
-The two graphs above show the different trends of sensors in different locations.
+The two graphs above show the different trends of sensors in different locations. For example in sensor 142, there is a more predominate cycle of traffic. You can clearly see the morning and afternoon rushhour. However, for sensor 222 there is a less defined cycle. Rather there always seems to be traffic.
 
 
 
@@ -27,7 +27,7 @@ The two graphs above show the different trends of sensors in different locations
 This image shows the location of the two sensors in the same place but recording speeds in different directions.
 ![Sensor_142_weekdays](https://user-images.githubusercontent.com/65979022/98954296-a5968c00-24cb-11eb-85c0-a3249d99dbed.png)
 ![Sensor_178_weekdays](https://user-images.githubusercontent.com/65979022/98955449-e216b780-24cc-11eb-8f9d-f0085b7dbbe9.png)
-The two graphs above show the different trends of sensors in the same location, one is eastbound, and the other is westbound.
+The two graphs above show the different trends of sensors in the same location, one is eastbound, and the other is westbound. 142 is the westbound sensor and you can see the brunt of rushhour is in the morning because of the number of people traveling into the city for work. Conversely, 178 is eastbound and you can clearly see that on fridays the afternoon rushhour is the worst. This is due to people leaving for the weekend. 
 
 
 ## Modeling
@@ -44,7 +44,7 @@ Anomaly detection was accomplished by measuring the prediction error. If the err
 
 ## Conclusion
 
-This project is an excellent start to understanding the complexities of city transportation. However, the future of this project is where more in-depth insight will occur. By creating a dashboard that visualizes all locations simultaneously, users will see city-wide traffic trends. 
+This project is an excellent start to understanding the complexities of city transportation. It can be utilized by city transportation officials to learn what areas are accident prone and need to have thier lanes expanded. However, the future of this project is where more global insight will occur. By creating a dashboard that visualizes all locations simultaneously, users will see city-wide traffic trends. This will allow users to see if anomalies in different locations trend together.
 
 ## Next Steps
 
