@@ -8,6 +8,7 @@ Knowing the state of a city's transportation network is vital to understanding f
 ![all_sensors](https://user-images.githubusercontent.com/65979022/98952514-8bf44500-24c9-11eb-9ed1-7e466c38da4f.png)
 Locations of all the various sensors.
 
+
 In this repo you will find three notebooks detailing different stages of this project. The first one is the EDA notebook. This notebook walksthrough the cleaning and EDA of the dataset linked at the bottom. The next notebook is the modeling notebook. This notebook contains the steps I took to be able to predict traffic speeds at each of the sensors around NYC. The third and final notebook details how you utilize the prediction models for anomaly detection. This is the final modeling notebook.
 
 ## EDA
@@ -17,14 +18,17 @@ After exploring the data from NYC Open Data, it was apparent that each sensor lo
 ![diff_loc_sensor](https://user-images.githubusercontent.com/65979022/98952527-8f87cc00-24c9-11eb-8d7b-dccdfb947947.png)
 This image shows the different locations of the following two sensors.
 ![Sensor_142_weekdays](https://user-images.githubusercontent.com/65979022/98954296-a5968c00-24cb-11eb-85c0-a3249d99dbed.png)
-![Sensor_222_weekly_trend](https://user-images.githubusercontent.com/65979022/98954367-b6df9880-24cb-11eb-9cec-01b1437fe33c.png)
+![Sensor_222_weekdays](https://user-images.githubusercontent.com/65979022/98955434-dcb96d00-24cc-11eb-8cba-8b4d3d8e59f7.png)
 The two graphs above show the different trends of sensors in different locations.
+
+
 
 ![east_vs_west_sensor](https://user-images.githubusercontent.com/65979022/98952536-944c8000-24c9-11eb-97fc-d3df050ba888.png)
 This image shows the location of the two sensors in the same place but recording speeds in different directions.
 ![Sensor_142_weekdays](https://user-images.githubusercontent.com/65979022/98954296-a5968c00-24cb-11eb-85c0-a3249d99dbed.png)
-![Sensor_178_weekly_trend](https://user-images.githubusercontent.com/65979022/98954324-ae875d80-24cb-11eb-9e34-e12aae044fd7.png)
+![Sensor_178_weekdays](https://user-images.githubusercontent.com/65979022/98955449-e216b780-24cc-11eb-8f9d-f0085b7dbbe9.png)
 The two graphs above show the different trends of sensors in the same location, one is eastbound and the other is westbound.
+
 
 ## Modeling
 
