@@ -36,7 +36,7 @@ Neural nets outperformed RNNs significantly. The best model had an RMSE of 0.37.
 
 ![loss_distribution](https://user-images.githubusercontent.com/65979022/98952531-91ea2600-24c9-11eb-903b-29118d023603.png)
 
-The average final model training and testing RSME. 
+The average final model training and testing RSME. You can see that both distributions are very similar. This is a good thing, becuase it shows that the models used were well-balanced.
 
 ## Anomaly Detection
 
