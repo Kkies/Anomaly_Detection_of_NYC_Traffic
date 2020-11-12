@@ -40,3 +40,6 @@ Refine models for higher sampling rates
 ## Sources
 
 NYC Open Data https://data.cityofnewyork.us/Transportation/DOT-Traffic-Speeds-NBE/i4gi-tjb9
+
+## Presentation
+https://docs.google.com/presentation/d/1iTXJS8TDgT_aPQahIsIAHrmtvj17reK2Ir_a8mkS5RQ/edit?usp=sharing
